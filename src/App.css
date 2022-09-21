@@ -1,0 +1,17 @@
+table
+{
+  width: 800px;
+  border: 2px solid white;
+}
+
+.container-fluid
+{
+  background-color: black;
+  height: 757px;
+}
+
+.container
+{
+  padding-top: 200px;
+}
+
